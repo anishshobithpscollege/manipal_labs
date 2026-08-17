@@ -1,4 +1,3 @@
-# mlabs/labs/wireshark_lab/docker-compose.yml
 version: '3.8'
 
 services:
